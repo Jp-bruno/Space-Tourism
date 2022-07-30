@@ -29,9 +29,9 @@ This project is a [FrontEnd Mentor Challenge](https://www.frontendmentor.io/chal
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Jp-bruno)
 - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-bruno-machado-230227a6/)
 
-## Updates
+### Live preview
 
-  Mobile and tablet versions done.
+https://jp-bruno.github.io/Space-Tourism-Frontend-Mentor/
 
 ![alt text](https://github.com/Jp-bruno/Space-Tourism-Frontend-Mentor/blob/f1e86494df1bd22db65b8148b67ce5f373f70242/snap.PNG)
 
