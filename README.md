@@ -31,7 +31,7 @@ This project is a [FrontEnd Mentor Challenge](https://www.frontendmentor.io/chal
 
 ### Live preview
 
-https://jp-bruno.github.io/Space-Tourism//
+https://jp-bruno.github.io/Space-Tourism/
 
 ![alt text](https://github.com/Jp-bruno/Space-Tourism-Frontend-Mentor/blob/f1e86494df1bd22db65b8148b67ce5f373f70242/snap.PNG)
 
